@@ -10,7 +10,7 @@ The magnetization directions of the PMs based on the Halbach linear motor are sh
 
 ### 2. FFT by Maxwell
 
-The magnetic density waveform of the air gap under a pair of poles is obtained by Maxwell as  shown in the figure below,
+The magnetic density waveform of the air-gap under a pair of poles is obtained by Maxwell as  shown in the figure below,
 
 ![image-20210908201602626](https://cdn.jsdelivr.net/gh/kishomoe/blogpic@master/picgo/image-20210908201602626.png)
 
@@ -20,7 +20,7 @@ The Fourier decomposition is obtained by maxwell's FFT as shown in the figure be
 
 ### 3. FFT by Matlab
 
-Export the air gap magnetic density ($$B_x$$) to csv format and the FFT code in matlab is as follows,
+Export the air-gap magnetic density ($$B_x$$) to csv format and the FFT code in matlab is as follows,
 
 ```matlab
 clc
